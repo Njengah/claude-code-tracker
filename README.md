@@ -2,11 +2,11 @@
 
 **A teaching app for [Claude Code Masterclass](https://claudecodemasterclass.com)** — track Claude Code sessions, projects, token usage, and cost so you can see how real agent work behaves in production-shaped code.
 
-Built and evolved **with Claude Code**, not just *about* Claude Code. Students use this repo to practice shipping a small FastAPI product: auth, CRUD, analytics, and tests.
+Built and evolved **with Claude Code**. Students use this repo to practice shipping a small FastAPI product: auth, CRUD, analytics, and tests.
 
 ---
 
-## Why this exists
+## Product
 
 | Goal | What you learn |
 |------|----------------|
@@ -19,7 +19,7 @@ This is **not** a replacement for Anthropic’s billing UI. It is a **course pro
 
 ---
 
-## What it does (product)
+## How it Works
 
 Claude Code Session Tracker is a small API (+ docs UI) for:
 
@@ -48,9 +48,7 @@ Interactive API docs ship with the app:
 
 ---
 
-## Intended layout
-
-As the course modules land, the app package looks like this:
+## Layout
 
 ```text
 claude-code-tracker/
@@ -168,6 +166,6 @@ Educational use for Claude Code Masterclass students unless otherwise noted. Ask
 
 ---
 
-## Author
+## Let's Connect
 
-**Joe Njenga** — [Claude Code Masterclass](https://claudecodemasterclass.com) · [GitHub @Njengah](https://github.com/Njengah)
+ [Claude Code Masterclass](https://claudecodemasterclass.com) · [GitHub @Njengah](https://github.com/Njengah)
